@@ -62,7 +62,7 @@ com.example.mvvmexample
 ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/mvvmexample.git
+   git clone https://github.com/Hasnain17/MVVM_DI_HILT.git
    ```
 2. **Open the project in Android Studio.**
 3. **Sync the project with Gradle files.**
