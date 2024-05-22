@@ -9,7 +9,6 @@ Welcome to the MVVM Example Project! This project demonstrates the implementatio
 - [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 This project showcases a clean and scalable approach to building Android applications using the MVVM architecture. It leverages Hilt for dependency injection and employs both View Binding and Data Binding for a smooth UI experience.
