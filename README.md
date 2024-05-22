@@ -15,7 +15,7 @@ This project showcases a clean and scalable approach to building Android applica
 
 ## Project Structure
 ```
-com.example.mvvmexample
+com.app.hasnain.sample.mvvmdihilt
 │
 ├── data
 │   ├── model
@@ -26,9 +26,15 @@ com.example.mvvmexample
 │       └── AppModule.kt
 │
 ├── ui
+│   ├── base
+│   │   ├── BaseActivity.kt
+│   │   └── BaseFragment.kt
 │   ├── main
 │   │   ├── MainActivity.kt
-│   │   └── MainViewModel.kt
+│   │   ├── MainViewModel.kt
+│   │   ├── SampleFragment.kt
+│   │   ├── SampleViewModel.kt
+│   │   └── fragment_sample.xml
 │   └── binding
 │       └── BindingAdapters.kt
 │
@@ -36,6 +42,7 @@ com.example.mvvmexample
 │   └── Extensions.kt
 │
 └── MyApplication.kt
+
 ```
 
 ### Explanation
